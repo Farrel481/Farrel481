@@ -5,4 +5,6 @@
 🌱 I’m currently learning C/C++ and Python<br>
 👯 I’m looking to collaborate on making projects!<br>
 <br>
+At the moment, i am more focused into Code Building and Physical Projects!<br>
+<br>
 Fun fact: ...I'm kinda plenger.
