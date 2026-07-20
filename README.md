@@ -6,27 +6,18 @@
 
 ![](https://komarev.com/ghpvc/?username=Farrel481&label=NETRUNNER+VISITED&base=113&abbreviated=true)
 
-````markdown
-╔══════════════════════════════════════════════════════════════════════╗
-║                    N E T R U N N E R   P R O F I L E                 ║
-╚══════════════════════════════════════════════════════════════════════╝
+╭──────────────────────────────────────────────────────────────╮
+                NETRUNNER PROFILE
 
-┌─ IDENTITY ──────────────────────────────────────────────────────────┐
-│ Alias        : Grounder                                             │
-│ Name         : Farrel Satriano                                      │
-│ Status       : ● ONLINE                                             │
-│ Clearance    : LV.03                                                │
-│ Occupation   : AI & Mechatronics Engineer                           │
-│ Affiliation  : Universitas Pendidikan Indonesia                     │
-│ Location     : Indonesia                                            │
-└─────────────────────────────────────────────────────────────────────┘
+ Alias        Grounder
+ Name         Farrel Satriano
+ Status       ● ONLINE
+ Clearance    LEVEL 03
 
-┌─ TECH STACK ────────────────────────────────────────────────────────┐
-│ Languages  :: Python • C++ • HTML                                   │
-│ AI         :: Ollama • OpenCV • TensorFlow                          │
-│ Embedded   :: Arduino • ESP32                                       │
-│ Tools      :: ?                                                     │
-└─────────────────────────────────────────────────────────────────────┘
+ Occupation   AI & Mechatronics Engineer
 
+ Affiliation  Universitas Pendidikan Indonesia
 
+ Location     Indonesia
+╰──────────────────────────────────────────────────────────────╯
 
