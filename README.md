@@ -21,19 +21,12 @@
 │ Location     : Indonesia                                            │
 └─────────────────────────────────────────────────────────────────────┘
 
-┌─ CURRENT MISSION ───────────────────────────────────────────────────┐
-│ ► Building REN                                                      │
-│ ► Building myCompanion                                              │
-│ ► Learning Artificial Intelligence                                  │
-│ ► Exploring Robotics & Embedded Systems                             │
-└─────────────────────────────────────────────────────────────────────┘
-
 ┌─ TECH STACK ────────────────────────────────────────────────────────┐
 │ Languages  :: Python • C++ • HTML                                   │
 │ AI         :: Ollama • OpenCV • TensorFlow                          │
 │ Embedded   :: Arduino • ESP32                                       │
 │ Tools      :: ?                                                     │
 └─────────────────────────────────────────────────────────────────────┘
-```
+
 
 
