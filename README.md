@@ -4,8 +4,8 @@
 
 📈 Currently
 - Building skill-set of IoT
-- Learning Front-end & Back-end architecture
-- Preparing for tech competitions
+- Learning Front-end & Back-end(Mainly)
+- Focusing to master Python
 
 👯 I’m looking to collaborate on making projects!<br>
 <br>
