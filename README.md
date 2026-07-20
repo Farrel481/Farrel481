@@ -9,7 +9,7 @@
 
 👯 I’m looking to collaborate on making projects!<br>
 <br>
-At the moment, i am more focused into Code Building and Physical Projects!<br>
+At the moment, i am more focused into Building Code Skills and Physical Projects!<br>
 <br>
 Check-out my repo and follow PLS<br>
 Plengerrr~
