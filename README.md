@@ -6,6 +6,8 @@
 
 ![](https://komarev.com/ghpvc/?username=Farrel481&label=NETRUNNER+VISITED&base=113&abbreviated=true)
 
+```
+
 ╭──────────────────────────────────────────────────────────────╮
                 NETRUNNER PROFILE
 
@@ -21,3 +23,4 @@
  Location     Indonesia
 ╰──────────────────────────────────────────────────────────────╯
 
+```
