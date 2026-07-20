@@ -1,15 +1,5 @@
-# Hi, I'm Farrel!😄
+<p align="center">
 
-### Pretty much loves to do coding and mechanical works, i am into Back-End Website developing and i can assist on doing things related to Electronics, Hardware and a bit of Software. I'm a Mechatronics and Artificial Intelligent student at University of Education Indonesia! Check out my profiles and what i do here! :)
+<img src="assets/banner.png" width="100%"/>
 
-📈 Currently
-- Building skill-set of IoT
-- Learning Front-end & Back-end(Mainly)
-- Focusing to master Python
-
-👯 I’m looking to collaborate on making projects!<br>
-<br>
-At the moment, i am more focused into Building Code Skills and Physical Projects!<br>
-<br>
-Check-out my repo and follow PLS<br>
-Plengerrr~
+</p>
