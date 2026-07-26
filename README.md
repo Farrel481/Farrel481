@@ -18,7 +18,7 @@
 
  Occupation   AI & Mechatronics Engineer
 
- Affiliation  Universitas Pendidikan Indonesia
+ Affiliation  University of Education Indonesia
 
  Location     Indonesia
 ╰──────────────────────────────────────────────────────────────╯
