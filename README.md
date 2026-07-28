@@ -14,7 +14,7 @@
  Alias        Grounder
  Name         Farrel Satriano
  Status       ● ONLINE
- Clearance    LEVEL 03
+ Clearance    Database & Workloads
 
  Occupation   AI & Mechatronics Engineer
 
